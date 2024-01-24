@@ -30,12 +30,6 @@ public class PetTester {
         System.out.println(ui.fileReader("src/petHomework/AnimalInformationList"));
         System.out.println("Would you like to add, remove, or leave the information as is?");
         String answer = sc.nextLine();
-        if (answer.equals("add")){
-
-        } else if (answer.equals("remove")) {
-
-
-        }
 
     }
 }

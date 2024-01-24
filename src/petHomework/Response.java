@@ -23,6 +23,8 @@ public class Response {
         BufferedReader br = new BufferedReader(fr);
         Scanner sc = new Scanner(System.in);
         LinkedList<String> lineInformation = new LinkedList<>();
+        // linkedlist is made to hold the information
+
         String line = br.readLine();
         while (line != null) {
             lineInformation.add(line);
@@ -30,8 +32,12 @@ public class Response {
             System.out.println(line);
         }
         sc.nextLine();
+        //next line is to separate lines after it is put in by the while loop
+
         br.close();
         sc.close();
+        // close lines are to close the scanner and buffered reader so there is no memory leak
+
         return lineInformation;
     }
 
@@ -42,8 +48,4 @@ public class Response {
 
     }
 
-    public void add(String element) throws IOException {
-        fileReader("src/petHomework/AnimalInformationList");
-
-    }
 }
