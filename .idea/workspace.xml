@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2675d708-55eb-4f97-b4ab-b5a2d2bcc7c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ITEC3150-Section03-HW1-WC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/AnimalInformationList" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/PetTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petHomework/Snake.java" afterDir="false" />
+    <list default="true" id="2675d708-55eb-4f97-b4ab-b5a2d2bcc7c9" name="Changes" comment="comments have been added to describe thought process used">
+      <change beforePath="$PROJECT_DIR$/src/petHomework/PetTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/petHomework/PetTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +54,23 @@
       <workItem from="1705161049721" duration="32670000" />
       <workItem from="1705933352988" duration="2865000" />
       <workItem from="1705941785404" duration="1091000" />
-      <workItem from="1706031325502" duration="10376000" />
+      <workItem from="1706031325502" duration="10701000" />
     </task>
+    <task id="LOCAL-00001" summary="Output has been corrected">
+      <created>1706056616998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706056616998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comments have been added to describe thought process used">
+      <created>1706056899408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706056899408</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +86,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Output has been corrected" />
+    <MESSAGE value="comments have been added to describe thought process used" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments have been added to describe thought process used" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

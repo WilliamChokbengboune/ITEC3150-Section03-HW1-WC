@@ -20,7 +20,6 @@
 package petHomework;
 
 import java.io.IOException;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 public class PetTester {
@@ -28,8 +27,6 @@ public class PetTester {
         Scanner sc = new Scanner(System.in);
         Response ui = new Response();
         System.out.println(ui.fileReader("src/petHomework/AnimalInformationList"));
-        System.out.println("Would you like to add, remove, or leave the information as is?");
-        String answer = sc.nextLine();
 
     }
 }
